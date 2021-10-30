@@ -17,7 +17,9 @@ Building the back end for an E-commerce site by modifying starter code. Configur
   Install dependancies by using command npm install. Run this command:
 
   >npm install
+
   >npm start
+  
   >npm run seed
 
   
