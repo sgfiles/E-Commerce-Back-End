@@ -14,7 +14,7 @@ Building the back end for an E-commerce site by modifying starter code. Configur
   - [Email](#email)
   
   ## Installation
-  Install dependancies by using command npm install. Run this command:
+  Install dependencies by using command npm install. Run this command:
 
   >npm install
 
@@ -34,7 +34,7 @@ Building the back end for an E-commerce site by modifying starter code. Configur
 
   ## Link
   Video walk through - https://watch.screencastify.com/v/eNnEYoOG2wkGplLVpMoZ 
-  Second Video for Insomnia Core -
+  Second Video for Insomnia Core - https://watch.screencastify.com/v/qKygsiTudlqjJUWKoVkx
  
   ## Email
   Questions about this project may be directed here.
